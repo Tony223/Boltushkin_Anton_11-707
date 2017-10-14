@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Part4_5\Part4_5\bin\Debug\Part4_5.exe.config
+C:\Users\asus\source\repos\Part4_5\Part4_5\bin\Debug\Part4_5.exe
+C:\Users\asus\source\repos\Part4_5\Part4_5\bin\Debug\Part4_5.pdb
+C:\Users\asus\source\repos\Part4_5\Part4_5\obj\Debug\Part4_5.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\Part4_5\Part4_5\obj\Debug\Part4_5.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Part4_5\Part4_5\obj\Debug\Part4_5.exe
+C:\Users\asus\source\repos\Part4_5\Part4_5\obj\Debug\Part4_5.pdb
