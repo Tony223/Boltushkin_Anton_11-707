@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Part2_17\Part2_17\bin\Debug\Part2_17.exe.config
+C:\Users\asus\source\repos\Part2_17\Part2_17\bin\Debug\Part2_17.exe
+C:\Users\asus\source\repos\Part2_17\Part2_17\bin\Debug\Part2_17.pdb
+C:\Users\asus\source\repos\Part2_17\Part2_17\obj\Debug\Part2_17.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\Part2_17\Part2_17\obj\Debug\Part2_17.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Part2_17\Part2_17\obj\Debug\Part2_17.exe
+C:\Users\asus\source\repos\Part2_17\Part2_17\obj\Debug\Part2_17.pdb
