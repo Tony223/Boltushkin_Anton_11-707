@@ -1,7 +1,0 @@
-C:\Users\asus\source\repos\FirstSem\FirstSem\bin\Debug\FirstSem.exe.config
-C:\Users\asus\source\repos\FirstSem\FirstSem\bin\Debug\FirstSem.exe
-C:\Users\asus\source\repos\FirstSem\FirstSem\bin\Debug\FirstSem.pdb
-C:\Users\asus\source\repos\FirstSem\FirstSem\obj\Debug\FirstSem.csprojResolveAssemblyReference.cache
-C:\Users\asus\source\repos\FirstSem\FirstSem\obj\Debug\FirstSem.csproj.CoreCompileInputs.cache
-C:\Users\asus\source\repos\FirstSem\FirstSem\obj\Debug\FirstSem.exe
-C:\Users\asus\source\repos\FirstSem\FirstSem\obj\Debug\FirstSem.pdb
