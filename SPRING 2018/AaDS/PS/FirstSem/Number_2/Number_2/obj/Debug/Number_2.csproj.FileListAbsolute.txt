@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Number_2\Number_2\bin\Debug\Number_2.exe.config
+C:\Users\asus\source\repos\Number_2\Number_2\bin\Debug\Number_2.exe
+C:\Users\asus\source\repos\Number_2\Number_2\bin\Debug\Number_2.pdb
+C:\Users\asus\source\repos\Number_2\Number_2\obj\Debug\Number_2.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\Number_2\Number_2\obj\Debug\Number_2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Number_2\Number_2\obj\Debug\Number_2.exe
+C:\Users\asus\source\repos\Number_2\Number_2\obj\Debug\Number_2.pdb
